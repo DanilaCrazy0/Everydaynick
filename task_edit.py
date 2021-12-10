@@ -64,7 +64,7 @@ class Ui_Form_task_edit(object):
     def retranslateUi(self, Form_task_edit):
         _translate = QtCore.QCoreApplication.translate
         Form_task_edit.setWindowTitle(_translate("Form_task_edit", "Изменить задачу"))
-        self.groupBox.setTitle(_translate("Form_task_edit", "GroupBox"))
+        self.groupBox.setTitle(_translate("Form_task_edit", "Изменение"))
         self.label_task.setText(_translate("Form_task_edit", "Описание задачи"))
         self.label_time.setText(_translate("Form_task_edit", "Время"))
         self.pushButton_cancel.setText(_translate("Form_task_edit", "Отмена"))
